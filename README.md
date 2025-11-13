@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi — I'm Trym 👋
 
-<!--
-**TrymHavre/TrymHavre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools for planning and automation in film production and marketing. I'm learning full‑stack development with a focus on interactive web apps (React/TypeScript) and backend logic in Python/FastAPI — with a plan to port to C# as the solution matures.
 
-Here are some ideas to get you started:
+## About me
+- Name: Trym Havre  
+- Interests: film scheduling (stripboard/scheduler), optimization algorithms, interactive user interfaces, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding goal
+- Design in‑house web tools that improve efficiency in productions.
+
+## Badges
+![Trym's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrymHavre&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrymHavre&layout=compact)
